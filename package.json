@@ -2,6 +2,7 @@
   "name": "secret-santa-shuffler",
   "version": "1.0.0",
   "description": "Input array get result of same array shuffled and paired with itself",
+  "repository": "git@github.com:DKunin/secret-santa-shuffler.git",
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
